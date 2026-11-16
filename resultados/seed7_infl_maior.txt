@@ -1,0 +1,32 @@
+#01 Mercado   ok=True  t=  5.48s col=0 quase=0 freios=0 red=0
+#02 Farmácia  ok=True  t=  8.97s col=0 quase=0 freios=0 red=0
+#03 Padaria   ok=True  t=  6.48s col=0 quase=0 freios=0 red=0
+#04 Mercado   ok=True  t= 20.68s col=0 quase=0 freios=0 red=0
+#05 Farmácia  ok=True  t= 10.93s col=0 quase=0 freios=0 red=0
+#06 Padaria   ok=True  t= 22.42s col=0 quase=0 freios=0 red=0
+#07 Mercado   ok=True  t= 15.25s col=0 quase=0 freios=0 red=0
+#08 Farmácia  ok=True  t= 20.93s col=0 quase=0 freios=0 red=0
+#09 Padaria   ok=True  t=  6.03s col=0 quase=0 freios=0 red=0
+#10 Mercado   ok=True  t= 13.05s col=0 quase=0 freios=0 red=0
+#11 Farmácia  ok=True  t= 22.98s col=0 quase=0 freios=0 red=0
+#12 Padaria   ok=True  t= 11.28s col=0 quase=0 freios=0 red=0
+#13 Mercado   ok=True  t=  5.48s col=0 quase=0 freios=0 red=0
+#14 Farmácia  ok=True  t= 10.38s col=0 quase=0 freios=0 red=0
+#15 Padaria   ok=True  t= 13.37s col=0 quase=0 freios=0 red=0
+#16 Mercado   ok=True  t= 19.12s col=0 quase=0 freios=0 red=0
+#17 Farmácia  ok=True  t= 20.00s col=0 quase=0 freios=0 red=0
+#18 Padaria   ok=True  t= 19.13s col=0 quase=0 freios=0 red=0
+#19 Mercado   ok=True  t=  9.17s col=0 quase=0 freios=0 red=0
+#20 Farmácia  ok=True  t=  7.97s col=0 quase=0 freios=0 red=0
+
+=== RESUMO ===
+seed: 7
+viagens: 20
+taxa_sucesso_pct: 100.0
+tempo_medio_s: 13.46
+colisoes: 0
+quase_colisoes: 0
+freios: 0
+alertas_vermelhos: 0
+replanejamentos: 0
+Resultados salvos em resultados/seed7_infl_maior.json

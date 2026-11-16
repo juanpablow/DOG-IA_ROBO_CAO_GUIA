@@ -1,0 +1,14 @@
+== Viagem ao Mercado (sem infratores) ==
+  0.00s  PLANEJANDO        Rota A* calculada ate Mercado
+  0.02s  NAVEGANDO         Via livre: seguindo A*
+  3.53s  AGUARDANDO_SINAL  Sinal fechado para pedestre (VERDE)
+ 13.12s  ATRAVESSANDO      Sinal de pedestre aberto e tempo suficiente
+ 14.78s  NAVEGANDO         Robo e tutor fora da pista
+ 15.05s  CHEGOU            Distancia ao destino <= 22 px
+tempo total: 15.05s
+
+== Infrator surgindo com o robo na pista ==
+infrator a 400px da faixa: estados=['ATRAVESSANDO', 'NAVEGANDO', 'CHEGOU'] freios=0 colisoes=0 quase=0
+infrator a 250px da faixa: estados=['ATRAVESSANDO', 'NAVEGANDO', 'CHEGOU'] freios=0 colisoes=0 quase=0
+infrator a 150px da faixa: estados=['FREIO_EMERGENCIA', 'ATRAVESSANDO', 'NAVEGANDO', 'CHEGOU'] freios=1 colisoes=0 quase=0
+infrator a 90px da faixa: estados=['FREIO_EMERGENCIA', 'ATRAVESSANDO', 'NAVEGANDO', 'CHEGOU'] freios=1 colisoes=0 quase=0
